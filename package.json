@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/romanornr/node-stratum-pool",
+    "homepage": "https://github.com/hzeyoo/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/romanornr/node-stratum-pool/issues"
+        "url": "https://github.com/hzeyoo/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Romano",
@@ -26,10 +26,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/romanornr/node-stratum-pool.git"
+        "url": "https://github.com/hzeyoo/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/dmitriy79/b.git",
+        "multi-hashing": "git://github.com/hzeyoo/node-multi-hashing-xzc.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
