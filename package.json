@@ -30,7 +30,7 @@
         "url": "https://github.com/isaev8871/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ocminer/node-multi-hashing-xzc.git",
+        "multi-hashing": "git://isaev8871/multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
